@@ -1,0 +1,173 @@
+{
+  "title": "PDF B OOKMARK S AMPLE",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "PDF B OOKMARK S AMPLE",
+      "page": 0,
+      "language": "de",
+      "confidence": 0.7
+    },
+    {
+      "level": "H3",
+      "text": "Sample Date:",
+      "page": 0,
+      "language": "fr",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "Prepared by:",
+      "page": 0,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "Created and Tested Using:",
+      "page": 0,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "Features Demonstrated:",
+      "page": 0,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H1",
+      "text": "Overview",
+      "page": 0,
+      "language": "af",
+      "confidence": 0.7
+    },
+    {
+      "level": "H3",
+      "text": "display of bookmarks in Adobe  Acrobat  Reader by clicking Window > Show Bookmarks .",
+      "page": 0,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "Sample Data File",
+      "page": 1,
+      "language": "it",
+      "confidence": 0.5
+    },
+    {
+      "level": "H3",
+      "text": "Sample Bookmark File",
+      "page": 1,
+      "language": "tr",
+      "confidence": 0.5
+    },
+    {
+      "level": "H1",
+      "text": "Sample Files",
+      "page": 2,
+      "language": "fr",
+      "confidence": 0.7
+    },
+    {
+      "level": "H3",
+      "text": "Filename",
+      "page": 2,
+      "language": "de",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "Description",
+      "page": 2,
+      "language": "fr",
+      "confidence": 0.4
+    },
+    {
+      "level": "H1",
+      "text": "Deploying the Sample",
+      "page": 2,
+      "language": "en",
+      "confidence": 0.7
+    },
+    {
+      "level": "H3",
+      "text": "1. Open the template design ap_bookmark.IFD in Output Designer and recompile the",
+      "page": 2,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "2. Modify the -z option in the ^job command in the data file ap_bookmark.dat to:",
+      "page": 2,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "Identify the bookmark file using the -abmk command.",
+      "page": 2,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "Identify the section for which to generate bookmarks, if desired, using the -abms",
+      "page": 2,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "To bookmark by …",
+      "page": 2,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "Use the command line parameter …",
+      "page": 2,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "Place ap_bookmark.IFD in the Designs subdirectory for Output Designer.",
+      "page": 3,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "Place ap_bookmark.mdf in the forms subdirectory accessible to Central.",
+      "page": 3,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H3",
+      "text": "Place ap_bookmark.bmk in an addressable directory.",
+      "page": 3,
+      "language": "en",
+      "confidence": 0.4
+    },
+    {
+      "level": "H1",
+      "text": "Running the Sample",
+      "page": 3,
+      "language": "en",
+      "confidence": 0.7
+    },
+    {
+      "level": "H3",
+      "text": "To run this sample, place ap_bookmark.dat in the collector directory scanned by Central.",
+      "page": 3,
+      "language": "en",
+      "confidence": 0.4
+    }
+  ]
+}

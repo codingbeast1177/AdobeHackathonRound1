@@ -1,0 +1,4 @@
+pymupdf==1.26.3
+langdetect==1.0.9
+fasttext
+pymupdf

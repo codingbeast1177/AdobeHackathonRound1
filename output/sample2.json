@@ -1,0 +1,89 @@
+{
+  "title": "PDF Test File",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "PDF Test File",
+      "page": 0,
+      "language": "de",
+      "confidence": 0.3
+    },
+    {
+      "level": "H2",
+      "text": "Congratulations, your computer is equipped with a PDF (Portable Document Format)",
+      "page": 0,
+      "language": "en",
+      "confidence": 0.3
+    },
+    {
+      "level": "H2",
+      "text": "reader!  You should be able to view any of the PDF documents and forms available on",
+      "page": 0,
+      "language": "en",
+      "confidence": 0.3
+    },
+    {
+      "level": "H2",
+      "text": "our site.  PDF forms are indicated by these icons:",
+      "page": 0,
+      "language": "en",
+      "confidence": 0.3
+    },
+    {
+      "level": "H2",
+      "text": "or",
+      "page": 0,
+      "language": "en",
+      "confidence": 0.3
+    },
+    {
+      "level": "H2",
+      "text": ".",
+      "page": 0,
+      "language": "unknown",
+      "confidence": 0.3
+    },
+    {
+      "level": "H2",
+      "text": "Yukon Department of Education",
+      "page": 0,
+      "language": "en",
+      "confidence": 0.3
+    },
+    {
+      "level": "H2",
+      "text": "Box 2703",
+      "page": 0,
+      "language": "so",
+      "confidence": 0.3
+    },
+    {
+      "level": "H2",
+      "text": "Whitehorse,Yukon",
+      "page": 0,
+      "language": "et",
+      "confidence": 0.3
+    },
+    {
+      "level": "H2",
+      "text": "Canada",
+      "page": 0,
+      "language": "so",
+      "confidence": 0.3
+    },
+    {
+      "level": "H2",
+      "text": "Y1A 2C6",
+      "page": 0,
+      "language": "cy",
+      "confidence": 0.3
+    },
+    {
+      "level": "H2",
+      "text": "Please visit our website at: http://www.education.gov.yk.ca/",
+      "page": 0,
+      "language": "en",
+      "confidence": 0.3
+    }
+  ]
+}
